@@ -1,0 +1,182 @@
+.pane {
+	-fx-background-color: #B0C4DE;
+}
+
+.paneI {
+	-fx-background-color: #D3D3D3;
+}
+
+.btIniciar{
+	-fx-background-color: #008B8B;
+	-fx-text-fill: #00FF00;
+	-fx-border-color: #7CFC00;
+}
+
+.btIniciar:hover {
+	-fx-background-color: #00FF00;
+	-fx-text-fill: #FF00FF;
+	-fx-padding: 10;
+}
+
+.btSair:hover {
+	-fx-background-color: #FF0000;
+	-fx-text-fill: #FFFF00;
+	-fx-padding: 10;
+}
+
+.btSair {
+	-fx-background-color: #FA8072; 
+	-fx-border-color: #DC143C;
+}
+
+.textoInicialTitulo{
+	-fx-background-color: #C0C0C0;
+	-fx-text-fill: #000030;
+	-fx-padding: 10, 0, 0, 0;
+}
+.textoInicialParagrafo{
+	-fx-background-color: #DCDCDC;
+	-fx-text-fill: #0000CD;
+	-fx-padding: 10, 0, 0, 0;
+}
+
+/*Termina a tela inicial*/
+
+
+
+
+
+.barra:hover {
+	-fx-background-color: linear-gradient(from 10% 10% to 75% 75%, #02FF96, #FF0296);
+	-fx-padding: 1;
+}
+
+.box:hover {
+	-fx-background-color: #00FF00; 
+	-fx-text-fill: #FF0000;
+	-fx-padding: 2;
+}
+
+.menuSelecao:hover {
+	-fx-background-color: #A9A9A9; 
+	-fx-text-fill: #FF0000;
+	-fx-padding: 3;
+}
+
+/*Termina a tela BasicMatematic*/
+
+
+
+
+
+
+.numeroQuestao {
+	-fx-background-color: #DCDCDC;
+	-fx-text-fill: #9F0047;
+	-fx-font-weight: bold;
+	-fx-padding: 10;
+}
+
+.btVoltar {
+	-fx-background-color: #C3C5C8;
+	-fx-text-fill: #FFFFFF;
+	-fx-border-color: #440692;
+}
+
+.btVoltar:hover {
+	-fx-background-color: #440692;
+	-fx-text-fill: #E4EC12;
+	-fx-padding: 10;
+}
+
+.btEstatistica{
+	-fx-background-color: #ADC0C3;
+	-fx-text-fill: #0000F2;
+	-fx-border-color: #E4EC12;
+}
+
+.btEstatistica:hover {
+	-fx-background-color: #E4EC12;
+	-fx-padding: 10;
+}
+
+.boxErroAcerto{
+	-fx-background-color: #ADC0C3;
+	-fx-border-color: #9F00A7;
+	-fx-padding: 10;
+}
+
+.boxErroAcerto:hover{
+	-fx-border-color: #0000F2;
+}
+
+.numeroAcerto{
+	-fx-text-fill: #00FF00;
+}
+
+.numeroErro {
+	-fx-text-fill: #F20000;
+}
+
+.acertoSeq{
+	-fx-text-fill: 	#2A2A2A;
+	-fx-font-weight: bold;
+}
+
+.erroSeq{
+	-fx-text-fill: 	#800000;
+	-fx-font-weight: bold;
+}
+
+.textoQuestao {
+	-fx-background-color: #DCDCDC;
+	-fx-text-fill: #0000CD;
+	-fx-font-family: "Helvetica";
+	-fx-padding: 10;
+}
+
+.textoQuestao:hover {
+	-fx-text-fill: #FFFFFF;
+	-fx-font-weight: bold;
+	-fx-background-color: #000;	
+}
+
+/*Fim Tela Exercício */
+
+
+.popupLabel{
+	-fx-padding: 20;
+}
+
+.popupPane0 {	
+	-fx-background-color: #ED220C;	
+}
+
+.label0 {
+	-fx-text-fill: #12DDF3;
+}
+
+.popupPane1 {	
+	-fx-background-color: #F3FF47;	
+}
+
+.label1 {
+	-fx-text-fill: #0C00B8;
+}
+
+.popupPane2 {	
+	-fx-background-color: #6AFF14;	
+}
+
+.label2 {
+	-fx-text-fill: #9500EB;
+}
+
+/*Fim Popup */
+
+.telaBonus {
+	-fx-padding: 40;
+}
+
+/*Fim Tela Bonus */
+
